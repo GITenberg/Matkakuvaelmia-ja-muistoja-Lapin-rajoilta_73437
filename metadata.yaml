@@ -1,0 +1,45 @@
+_repo: Matkakuvaelmia-ja-muistoja-Lapin-rajoilta_73437
+_version: 0.0.1
+alternative_title: Från älfvar och fjäll på lappska gränsen. Finnish
+contributor:
+  translator:
+    agent_name: Juuti, Toimi
+    aliases:
+    - T. J.
+    - J., T.
+    - J-i, T.
+    - T. J-i
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '43129'
+    url: http://www.gutenberg.org/2009/agents/43129
+    wikipedia: https://fi.wikipedia.org/wiki/Toimi_Juuti
+creator:
+  author:
+    agent_name: Nervander, Emil Fredrik
+    alias: Emlekyl
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7613'
+    url: http://www.gutenberg.org/2009/agents/7613
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Nervander
+description: ''
+gutenberg_issued: '2024-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73437'
+language: fi
+pgterms:marc905: 20240412022245nervander
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPori :$bGust. Romelius, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lapland -- Description and travel'
+- !lcc 'DK'
+- GITenberg
+title: Matkakuvaelmia ja muistoja Lapin rajoilta
+url: http://www.gutenberg.org/ebooks/73437
